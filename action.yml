@@ -1,4 +1,7 @@
 name: 'Edward Number Generator'
+branding:
+  icon: info
+  color: blue
 description: 'Greets a user and generates a random number'
  
 # 1. Define the input the action expects to receive
